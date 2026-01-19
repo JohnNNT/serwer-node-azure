@@ -1,10 +1,10 @@
 {
-  "name": "zaadanie9",
+  "name": "nodeSerwer",
   "version": "0.0.1",
   "description": "Prosty serwer http w node.js odpowiadający przy użyciu Promise",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnnnt/Programowanie-funkcyjne/zadanie9---Wykonane w node.js"
+    "url": "https://github.com/johnnnt/node-serwer-azure w node.js"
   },
   "license": "Apache-2.0",
   "author": "Me",
