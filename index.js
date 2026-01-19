@@ -26,6 +26,8 @@ const server = http.createServer((request, response) => {
                         .then((sortedList) => JSON.stringify({result: sortedList}))
                         .then((list) => response.end(list))
                     break;
+                default:
+                    response.end("<h1>Wrong</h1>");
             }
         });
 }).listen(3000)
